@@ -5,7 +5,7 @@ class prime
 	{
 		int n,p;
 		Scanner s=new Scanner(System.in);
-		System.out.println(“Enter upto which number prime numbers are needed”);
+		System.out.println(“Enter upto which number hiiiiii prime numbers are needed”);
 		n=s.nextInt();
 		for(int i=2;i<n;i++)
 		{
